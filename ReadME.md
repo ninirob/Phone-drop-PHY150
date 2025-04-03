@@ -13,7 +13,7 @@
 `pip install matplotlib`
 
     3.	Running the Code:
-	•	Save the code as phone_drop_simulation.py and run it in your Python environment.
+	•Save the code as phone_drop_simulation.py and run it in your Python environment.
     Example Output:
     The console output will display the velocity before impact, deceleration, and impact force for each case material. The graphical output will show the phone drop simulation and a collision time comparison bar chart.
    
