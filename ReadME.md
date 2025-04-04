@@ -133,5 +133,3 @@ The time of flight for all cases is `0.553 s`.
 The bar chart shown above compares the collision times for different materials.
 
 ---
-
-## Feel free to explore the project and reach out if you’d like to collaborate on any of them! Thank you! 😊
