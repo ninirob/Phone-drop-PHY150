@@ -41,7 +41,7 @@ The data is visualized through graphical plots, including the forces at play and
 This diagram illustrates the simulation of the phone drop, showing the forces at play during impact for different materials.
 
 <p align="center">
-  <img src="images/phone_drop_diagram.png" width="500"/>
+  <img src="Images/phone_drop_diagram.png" width="500"/>
 </p>
 
 ### 2. Material Comparison Bar Chart
@@ -50,7 +50,7 @@ This bar chart compares the collision times for different phone case materials:
 **Phone Only**, **Silicone**, **Hard Plastic**, and **Rubber**.
 
 <p align="center">
-  <img src="images/material_comparison.png" width="500"/>
+  <img src="Images/material_comparison.png" width="500"/>
 </p>
 
 ---
